@@ -1,6 +1,6 @@
 ## Hi there 👋
-![pic](https://user-images.githubusercontent.com/51810762/187877835-c5c47070-38ea-4346-ac8b-2e7f52854eb2.jpeg)
 
+![banner](https://user-images.githubusercontent.com/51810762/225835274-e6be7ecb-ad1e-431a-a300-834a5bcfe184.jpeg)
 
 ** We are the bakery. We love 🍿food, bread, sourdough ... and also 🌈 technology 💻 .**
 
