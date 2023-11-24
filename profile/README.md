@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![banner](https://user-images.githubusercontent.com/51810762/225835274-e6be7ecb-ad1e-431a-a300-834a5bcfe184.jpeg)
+![icon-512x512](https://github.com/unicubevn/.github/assets/51810762/be8d65cd-7bce-452d-8e82-1f02c8a2dbc3)
+
 
 ** We are the bakery. We love 🍿food, bread, sourdough ... and also 🌈 technology 💻 .**
 
