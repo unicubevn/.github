@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Asset 7512px](https://github.com/unicubevn/.github/assets/51810762/d14e6714-9946-4fa8-b9e7-bd755adf4c00)
-
+![Asset 19-512px](https://github.com/unicubevn/.github/assets/152946931/6b8f3465-5f15-42bd-baaf-33b05d21282a)
 
 ** We are the bakery. We love 🍿food, bread, sourdough ... and also 🌈 technology 💻 .**
 
